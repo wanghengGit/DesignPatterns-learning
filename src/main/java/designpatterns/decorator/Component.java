@@ -1,6 +1,7 @@
-//designpatterns.decorator.Component.java
 package designpatterns.decorator;
 
-public abstract class Component {
-	public abstract void display();
+//抽象组件
+public interface Component {
+    void samp();
 }
+
